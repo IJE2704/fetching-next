@@ -1,0 +1,41 @@
+{
+  "posts":[
+    {
+      "id": 1,
+      "title": "Exploring the Wonders of Nature",
+      "description": "Join us as we embark on a journey through lush forests, majestic mountains, and serene lakes.",
+      "like_count": 10
+    },
+    {
+      "id": 2,
+      "title": "The Art of Cooking",
+      "description": "Delve into the world of culinary arts with mouth-watering recipes and expert tips.",
+      "like_count": 76
+    },
+    {
+      "id": 3,
+      "title": "Mastering the Guitar: A Beginner's Guide",
+      "description": "Learn to play the guitar from scratch with easy-to-follow tutorials and chord diagrams.",
+      "like_count": 2
+    },
+    {
+      "id": 4,
+      "title": "Discovering Ancient Civilizations",
+      "description": "Unravel the mysteries of lost civilizations and their fascinating cultures.",
+      "like_count": 3154567
+    },
+    {
+      "id": 5,
+      "title": "The Power of Mindfulness Meditation",
+      "description": "Experience inner peace and tranquility through mindfulness meditation practices.",
+      "like_count": 512
+    },
+    {
+      "id": 6,
+      "title": "Capturing the Beauty of Wildlife",
+      "description": "Embark on a photographic journey to capture the stunning beauty of wildlife in its natural habitat.",
+      "like_count": 198
+    }
+  ]
+  
+}
